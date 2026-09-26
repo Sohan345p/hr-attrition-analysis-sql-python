@@ -1,0 +1,6 @@
+job_role,department,headcount,attrition_rate_pct
+Sales Executive,Sales,228,36.4
+Sales Manager,Sales,56,32.1
+Research Scientist,Research & Development,251,29.9
+Research Director,Research & Development,54,29.6
+Operations Associate,Operations,82,28.0

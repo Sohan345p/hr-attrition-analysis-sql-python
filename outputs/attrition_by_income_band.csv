@@ -1,0 +1,5 @@
+income_band,headcount,attrition_rate_pct
+1. < 30K,215,43.7
+2. 30K-60K,687,24.3
+3. 60K-1L,395,21.5
+4. 1L+,203,24.1
