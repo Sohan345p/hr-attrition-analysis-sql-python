@@ -1,4 +1,4 @@
-# HR Employee Attrition Analysis (SQL + Python)
+# HR Employee Attrition Analysis
 
 A beginner business analyst project that answers one question for an HR team:
 **Why are employees leaving, and who is most at risk of leaving next?**
